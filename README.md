@@ -9,9 +9,8 @@ In Jupiter notepad written the code for the following scenario's and mentioned t
 fullname function that should return the (full name).
 2. Written a python program to find the wordcount in a file (input.txt) for each line and then print the output.
 o Finally store the output in output.txt file.
-3. Written a program, which reads heights (inches.) of customers into a list and convert these 
-heights to centimeters in a separate list using:
+3. Written a program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using:
 o Nested Interactive loop.
 o List comprehensions
-In the "Neural Networks & DL ICP-2 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
-In the "ICP-2 Recording.mp4" file consists of Video regarding the technical explanation of the code.
+4. In the "Neural Networks & DL ICP-2 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
+5. In the "ICP-2 Recording.mp4" file consists of Video regarding the technical explanation of the code.

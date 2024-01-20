@@ -11,7 +11,7 @@ fullname function that should return the (full name).
 o Finally store the output in output.txt file.
 3. Written a program, which reads heights (inches.) of customers into a list and convert these 
 heights to centimeters in a separate list using:
-1) Nested Interactive loop.
-2) List comprehensions
+o Nested Interactive loop.
+o List comprehensions
 In the "Neural Networks & DL ICP-2 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
 In the "ICP-2 Recording.mp4" file consists of Video regarding the technical explanation of the code.
